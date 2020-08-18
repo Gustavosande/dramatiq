@@ -2,6 +2,7 @@
 
 # dramatiq
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/132ecfb14822490ca7d699e58fc50499)](https://app.codacy.com/manual/gustavosandesilva/dramatiq?utm_source=github.com&utm_medium=referral&utm_content=Gustavosande/dramatiq&utm_campaign=Badge_Grade_Dashboard)
 [![Build Status](https://github.com/Bogdanp/dramatiq/workflows/CI/badge.svg)](https://github.com/Bogdanp/dramatiq/actions?query=workflow%3A%22CI%22)
 [![PyPI version](https://badge.fury.io/py/dramatiq.svg)](https://badge.fury.io/py/dramatiq)
 [![Documentation](https://img.shields.io/badge/doc-latest-brightgreen.svg)](http://dramatiq.io)
